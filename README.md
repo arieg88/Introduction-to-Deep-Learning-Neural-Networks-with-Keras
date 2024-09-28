@@ -28,5 +28,3 @@ To run the notebooks, you need the following Python libraries:
 
 You can install these packages using pip:
 
-```bash
-pip install pandas numpy scikit-learn tensorflow keras
